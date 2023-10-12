@@ -1,1 +1,1 @@
-GET https://phonebookfullstack-maab.onrender.com/info
+GET https://phonebook-vjva.onrender.com/info
